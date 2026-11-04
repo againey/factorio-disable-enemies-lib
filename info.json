@@ -1,0 +1,16 @@
+{
+	"name": "disable-enemies-lib",
+	"version": "1.0.0",
+	"title": "Disable Enemies Shared Library",
+	"description": "A shared library for mods that selectively disable specific types of enemies.",
+	"author": "Andy Gainey",
+	"factorio_version": "2.1",
+	"dependencies": ["base >= 2.1"],
+	"quality_required": false,
+	"space_travel_required": false,
+	"spoiling_required": false,
+	"freezing_required": false,
+	"segmented_units_required": false,
+	"expansion_shaders_required": false,
+	"expansion_required": false
+}

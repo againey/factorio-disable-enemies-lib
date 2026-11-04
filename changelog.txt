@@ -1,0 +1,13 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 04. 11. 2026
+  Features:
+    - Initial release
+    - Selectively disable enemies from spawning from unit spawners.
+    - Substitute alternative units for disable units in their evolution-based spawn rates
+    - Disable items from spawning enemies when they spoil.
+    - Disable projectiles from spawning enemies when they hit.
+    - Disable projectiles from spawning enemies when they kill their target.
+    - Disable entities from spawning enemies when they take damage.
+    - Disable entities from spawning enemies when they die.
+    - Disable the attack of turret entities.
